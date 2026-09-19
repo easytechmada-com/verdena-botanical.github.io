@@ -1,0 +1,69 @@
+[
+  {
+    "id": "monstera-deliciosa",
+    "name": "Monstera Deliciosa",
+    "category": "Plants",
+    "price": 34,
+    "image": "assets/products/monstera.jpg",
+    "fallback": "https://images.unsplash.com/photo-1736265488043-435d41bb6a5c?auto=format&fit=crop&fm=jpg&q=88&w=1600",
+    "desc": "A statement plant with sculptural split leaves for bright, lived-in rooms."
+  },
+  {
+    "id": "snake-plant",
+    "name": "Sage Snake Plant",
+    "category": "Plants",
+    "price": 32,
+    "image": "assets/products/snake-plant.jpg",
+    "fallback": "https://images.unsplash.com/photo-1615781749798-c01b1b64cfcf?auto=format&fit=crop&fm=jpg&q=88&w=1600",
+    "desc": "An architectural favorite with upright form and an easygoing nature."
+  },
+  {
+    "id": "sage-planter",
+    "name": "Ribbed Sage Planter",
+    "category": "Planters",
+    "price": 29,
+    "image": "assets/products/sage-planter.jpg",
+    "fallback": "https://images.unsplash.com/photo-1736265488043-435d41bb6a5c?auto=format&fit=crop&fm=jpg&q=88&w=1600",
+    "desc": "A softly ribbed ceramic vessel designed for quiet, modern interiors."
+  },
+  {
+    "id": "calathea",
+    "name": "Calathea Accent Plant",
+    "category": "Plants",
+    "price": 38,
+    "image": "https://images.unsplash.com/photo-1736265488043-435d41bb6a5c?auto=format&fit=crop&fm=jpg&q=88&w=1600",
+    "desc": "Patterned foliage that brings movement and color to calm spaces."
+  },
+  {
+    "id": "watering-can",
+    "name": "Forest Watering Can",
+    "category": "Tools & Care",
+    "price": 24,
+    "image": "https://images.unsplash.com/photo-1569135393135-c151f480100b?auto=format&fit=crop&fm=jpg&q=88&w=1600",
+    "desc": "A practical everyday tool for slow, intentional plant care."
+  },
+  {
+    "id": "pruning-shears",
+    "name": "Garden Pruning Shears",
+    "category": "Tools & Care",
+    "price": 18,
+    "image": "https://images.unsplash.com/photo-1523301551780-cd17359a95d0?auto=format&fit=crop&fm=jpg&q=88&w=1600",
+    "desc": "A compact care essential for shaping and maintaining healthy growth."
+  },
+  {
+    "id": "white-pot",
+    "name": "Stone White Planter",
+    "category": "Planters",
+    "price": 31,
+    "image": "https://images.unsplash.com/photo-1615781749798-c01b1b64cfcf?auto=format&fit=crop&fm=jpg&q=88&w=1600",
+    "desc": "A simple neutral vessel that lets foliage take the lead."
+  },
+  {
+    "id": "plant-stand",
+    "name": "Oak Plant Stand",
+    "category": "Home Decor",
+    "price": 42,
+    "image": "https://images.unsplash.com/photo-1736265488043-435d41bb6a5c?auto=format&fit=crop&fm=jpg&q=88&w=1600",
+    "desc": "A warm wooden lift that gives smaller plants a stronger presence."
+  }
+]
