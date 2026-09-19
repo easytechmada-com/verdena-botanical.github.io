@@ -1,16 +1,8 @@
-# VERDENA Image Credits
+# VERDENA — IMAGE CREDITS / SOURCES
 
-VERDENA uses a mix of locally generated original product photography and verified individual Unsplash photographs.
+This storefront uses individual image assets. The local brand/product images are stored in `assets/`; the editorial catalog also uses individual Unsplash image URLs.
 
-## Local generated photography
-
-- `assets/products/monstera.jpg` — original generated VERDENA product/lifestyle image.
-- `assets/products/snake-plant.jpg` — original generated VERDENA studio product image.
-- `assets/products/sage-planter.jpg` — original generated VERDENA studio product image.
-
-## Unsplash sources
-
-The following photographs were selected from individual Unsplash photo pages and are used as external image fallbacks:
+## Unsplash source pages referenced by the project
 
 - https://unsplash.com/photos/a-large-monstera-plant-sits-on-a-shelf-Vb1aGcCWAuE
 - https://unsplash.com/photos/a-houseplant-in-a-white-pot-on-a-wooden-stand-iOx9-YjxEuI
@@ -19,4 +11,8 @@ The following photographs were selected from individual Unsplash photo pages and
 - https://unsplash.com/photos/green-plant-on-white-ceramic-pot-IH7wPsjwomc
 - https://unsplash.com/photos/shelving-unit-with-plants-and-watering-can-qMQc-3rPD4s
 
-The individual source pages identify the photographs as free to use under the Unsplash License. Verify licensing and attribution requirements before a commercial launch.
+## Implementation note
+
+The HTML references individual `images.unsplash.com` assets for additional product/editorial photography. These are not screenshots of websites and are not composite catalog images.
+
+Verify current commercial-use rights and the final asset/source terms before launching a real commercial storefront.
