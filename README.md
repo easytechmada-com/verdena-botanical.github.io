@@ -2,9 +2,9 @@
 
 **VERDENA** is a premium static storefront concept built around botanical living: indoor plants, planters, plant-care tools, and considered home accents for modern spaces.
 
-## V2 direction
+## V3 direction
 
-V2 moves the storefront from a simple product landing page toward a fuller editorial commerce experience. It adds:
+V3 keeps the editorial V2 direction and adds a cleaner brand presentation plus a more complete commerce interaction layer. from a simple product landing page toward a fuller editorial commerce experience. It adds:
 
 - 12 curated products with richer product metadata
 - Search, category filtering, sorting, quick view, and a working shopping bag
@@ -16,6 +16,11 @@ V2 moves the storefront from a simple product landing page toward a fuller edito
 - Customer testimonial section
 - Human support / contact section
 - Newsletter capture UI
+- Product images open a purchase-ready quick view
+- Bag quantities, persistent localStorage state, and dynamic order-request email
+- Structured `data/` content files for products, collections, journal, and FAQs
+- `docs/` content guide for production handoff
+- Transparent logo asset plus favicon and light footer logo
 - Shipping, service, and trust messaging
 - Responsive layouts for desktop, tablet, and mobile
 - GitHub Pages compatible static architecture
@@ -64,7 +69,7 @@ The newsletter and checkout are front-end demo interactions. The shopping bag ca
 
 ## Status
 
-**Project:** V2 professional storefront concept
+**Project:** V3 professional storefront concept
 
 **Status:** Proyecto en desarrollo
 

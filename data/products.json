@@ -1,0 +1,125 @@
+[
+  {
+    "id": "monstera-deliciosa",
+    "name": "Monstera Deliciosa",
+    "category": "Plants",
+    "price": 34,
+    "image": "assets/products/monstera.jpg",
+    "fallback": "https://images.unsplash.com/photo-1736265488043-435d41bb6a5c?auto=format&fit=crop&fm=jpg&q=88&w=1400",
+    "badge": "Bestseller",
+    "size": "6 in pot",
+    "desc": "A sculptural statement plant with split leaves and an easy, bright-room routine."
+  },
+  {
+    "id": "sage-snake-plant",
+    "name": "Sage Snake Plant",
+    "category": "Plants",
+    "price": 32,
+    "image": "assets/products/snake-plant.jpg",
+    "fallback": "https://images.unsplash.com/photo-1615781749798-c01b1b64cfcf?auto=format&fit=crop&fm=jpg&q=88&w=1400",
+    "badge": "Easy Care",
+    "size": "5 in pot",
+    "desc": "An architectural favorite with upright form and a forgiving watering rhythm."
+  },
+  {
+    "id": "olive-tree",
+    "name": "Mediterranean Olive Tree",
+    "category": "Plants",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1574529130193-3b03681ab1c5?auto=format&fit=crop&fm=jpg&q=88&w=1400",
+    "badge": "New",
+    "size": "10 in pot",
+    "desc": "A sun-loving silhouette that adds warmth, height, and a relaxed Mediterranean note."
+  },
+  {
+    "id": "calathea",
+    "name": "Calathea Accent Plant",
+    "category": "Plants",
+    "price": 38,
+    "image": "https://images.unsplash.com/photo-1773995419788-451aec4bfdef?auto=format&fit=crop&fm=jpg&q=88&w=1400",
+    "badge": "Curated",
+    "size": "6 in pot",
+    "desc": "Patterned foliage for spaces that call for movement, texture, and a little drama."
+  },
+  {
+    "id": "sage-planter",
+    "name": "Ribbed Sage Planter",
+    "category": "Planters",
+    "price": 29,
+    "image": "assets/products/sage-planter.jpg",
+    "fallback": "https://images.unsplash.com/photo-1736265488043-435d41bb6a5c?auto=format&fit=crop&fm=jpg&q=88&w=1400",
+    "badge": "VERDENA Studio",
+    "size": "8 in diameter",
+    "desc": "A softly ribbed ceramic vessel designed to frame foliage without competing with it."
+  },
+  {
+    "id": "stone-planter",
+    "name": "Stone White Planter",
+    "category": "Planters",
+    "price": 31,
+    "image": "https://images.unsplash.com/photo-1615781749798-c01b1b64cfcf?auto=format&fit=crop&fm=jpg&q=88&w=1400",
+    "badge": "Best Seller",
+    "size": "7 in diameter",
+    "desc": "A neutral stone-toned vessel with a calm profile for shelves, tables, and consoles."
+  },
+  {
+    "id": "terracotta-vessel",
+    "name": "Hand-Finished Terracotta Vessel",
+    "category": "Planters",
+    "price": 44,
+    "image": "https://images.unsplash.com/photo-1761083042225-ed8fae388971?auto=format&fit=crop&fm=jpg&q=88&w=1400",
+    "badge": "Hand-finished",
+    "size": "9 in diameter",
+    "desc": "Warm terracotta texture with an artisanal surface made for relaxed botanical styling."
+  },
+  {
+    "id": "watering-can",
+    "name": "Forest Watering Can",
+    "category": "Tools & Care",
+    "price": 24,
+    "image": "https://images.unsplash.com/photo-1569135393135-c151f480100b?auto=format&fit=crop&fm=jpg&q=88&w=1400",
+    "badge": "Everyday Tool",
+    "size": "1.4 L",
+    "desc": "A balanced, practical watering can for slow and precise plant care."
+  },
+  {
+    "id": "pruning-shears",
+    "name": "Garden Pruning Shears",
+    "category": "Tools & Care",
+    "price": 18,
+    "image": "https://images.unsplash.com/photo-1523301551780-cd17359a95d0?auto=format&fit=crop&fm=jpg&q=88&w=1400",
+    "badge": "Care Essential",
+    "size": "8 in",
+    "desc": "Compact shears for shaping, removing spent growth, and keeping plants tidy."
+  },
+  {
+    "id": "plant-mister",
+    "name": "Glass Plant Mister",
+    "category": "Tools & Care",
+    "price": 18,
+    "image": "https://images.unsplash.com/photo-1604762524889-3e2fcc145683?auto=format&fit=crop&fm=jpg&q=88&w=1400",
+    "badge": "New",
+    "size": "300 ml",
+    "desc": "A fine-mist bottle for humidity-loving plants and a more intentional care ritual."
+  },
+  {
+    "id": "oak-stand",
+    "name": "Oak Plant Stand",
+    "category": "Home Decor",
+    "price": 42,
+    "image": "https://images.unsplash.com/photo-1736265488043-435d41bb6a5c?auto=format&fit=crop&fm=jpg&q=88&w=1400",
+    "badge": "Warm Oak",
+    "size": "18 in high",
+    "desc": "A simple wooden lift that gives smaller plants a stronger presence in the room."
+  },
+  {
+    "id": "grow-light",
+    "name": "Arc Indoor Grow Light",
+    "category": "Home Decor",
+    "price": 49,
+    "image": "https://images.unsplash.com/photo-1761083042225-ed8fae388971?auto=format&fit=crop&fm=jpg&q=88&w=1400",
+    "badge": "Low-Light Edit",
+    "size": "Adjustable",
+    "desc": "A discreet lighting accent for darker corners where your greenery needs support."
+  }
+]

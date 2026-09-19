@@ -1,0 +1,26 @@
+[
+  {
+    "id": "plants",
+    "name": "Indoor Plants",
+    "description": "Statement foliage, easy-care silhouettes, and small-space favorites.",
+    "filter": "Plants"
+  },
+  {
+    "id": "planters",
+    "name": "Planters",
+    "description": "Vessels with proportion, texture, and quiet color.",
+    "filter": "Planters"
+  },
+  {
+    "id": "care",
+    "name": "Tools & Care",
+    "description": "Useful objects that make plant care feel natural.",
+    "filter": "Tools & Care"
+  },
+  {
+    "id": "decor",
+    "name": "Botanical Decor",
+    "description": "Stands, accents, and details that complete the room.",
+    "filter": "Home Decor"
+  }
+]

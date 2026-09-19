@@ -1,0 +1,22 @@
+[
+  {
+    "q": "Do you ship plants?",
+    "a": "Yes. This demo storefront presents plant shipping as a supported service. A production version should connect a real fulfillment provider and live shipping rules."
+  },
+  {
+    "q": "How do I choose a plant?",
+    "a": "Start with your light, available space, and care rhythm. Our Plant Care guides are designed to make the choice easier."
+  },
+  {
+    "q": "Can I request an order?",
+    "a": "Yes. The shopping bag prepares an order request email with your selected items, quantities, and subtotal."
+  },
+  {
+    "q": "Is checkout connected to payments?",
+    "a": "No. This GitHub Pages version is a front-end commerce demo and does not process card payments."
+  },
+  {
+    "q": "What happens when an image cannot load?",
+    "a": "Product images include fallback URLs where available, so the storefront can remain usable when a remote asset is unavailable."
+  }
+]
